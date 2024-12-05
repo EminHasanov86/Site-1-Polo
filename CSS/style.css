@@ -17,7 +17,7 @@ header {
     color: #666;
 }
 main {
-    background: #fff url('../img/mainbg.jpg') repeat-x;
+    background: #fff url('IMG/mainbg.jpg') repeat-x;
     padding: 20px 0 0 0;
     text-align: center;
 }
