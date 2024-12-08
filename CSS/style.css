@@ -17,15 +17,16 @@ header {
     color: #666;
 }
 main {
-    background: #fff url('IMG/mainbg.jpg') repeat-x;
+    background: #fff url('../IMG/mainbg.jpg') repeat-x;
     padding: 20px 0 0 0;
     text-align: center;
+    
 }
-#slider img {
+#slider {
     height: 345px;
     border: 1px solid #c6c6c6;
     border-radius: 8px;
-    /* background: url('IMG/slider1.jpg') center/cover; */
+    background: url('../IMG/slider1.jpg') center/cover;
     box-shadow: 0 5px 10px #AAA;
 }
 h1 {
